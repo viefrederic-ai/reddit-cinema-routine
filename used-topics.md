@@ -13,3 +13,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-03 | Mademoiselle (1966, Tony Richardson) — David Watkin static/geometric camera vs. Bresson comparison (r/TrueFilm) |
 | 2026-07-03 | Raging Bull (1980, Scorsese) — John 9:24-26 closing quote, Haig Manoogian dedication (r/TrueFilm) |
 | 2026-07-03 | War films Mount Rushmore — Come and See (Klimov/Rodionov barn massacre), 1917 (Mendes/Deakins single-take) (r/flicks) |
+| 2026-07-05 | Kurosawa (Seven Samurai, Stray Dog) — multi-camera simultaneous shooting, guerrilla Tokyo black-market sequence (r/TrueFilm) |
+| 2026-07-05 | No Country for Old Men (Coen Bros.) — off-screen Chigurh/Carla Jean kill, Bell's closing dream monologue, no score (r/flicks) |
+| 2026-07-05 | Idiocracy (Mike Judge) — real Costco location shoot, Tim Suhrstedt cinematography, NYT America-at-250 poll (r/movies) |
