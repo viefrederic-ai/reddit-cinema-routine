@@ -16,3 +16,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-05 | Kurosawa (Seven Samurai, Stray Dog) — multi-camera simultaneous shooting, guerrilla Tokyo black-market sequence (r/TrueFilm) |
 | 2026-07-05 | No Country for Old Men (Coen Bros.) — off-screen Chigurh/Carla Jean kill, Bell's closing dream monologue, no score (r/flicks) |
 | 2026-07-05 | Idiocracy (Mike Judge) — real Costco location shoot, Tim Suhrstedt cinematography, NYT America-at-250 poll (r/movies) |
+| 2026-07-06 | The Lighthouse (Robert Eggers) vs. Persona (Bergman) — Jarin Blaschke's Baltar lenses/cyan filter orthochromatic look, Sven Nykvist merged-face shot (r/TrueFilm) |
+| 2026-07-06 | Last Action Hero (1993, John McTiernan) — Sunset Boulevard comparison, same-summer release clash with Jurassic Park (June 1993) (r/flicks) |
+| 2026-07-06 | Wolf Creek (2005, Greg McLean) — slow-burn pacing, Ivan Milat/Falconio-inspired verisimilitude (r/flicks) |
