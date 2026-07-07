@@ -19,3 +19,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-06 | The Lighthouse (Robert Eggers) vs. Persona (Bergman) — Jarin Blaschke's Baltar lenses/cyan filter orthochromatic look, Sven Nykvist merged-face shot (r/TrueFilm) |
 | 2026-07-06 | Last Action Hero (1993, John McTiernan) — Sunset Boulevard comparison, same-summer release clash with Jurassic Park (June 1993) (r/flicks) |
 | 2026-07-06 | Wolf Creek (2005, Greg McLean) — slow-burn pacing, Ivan Milat/Falconio-inspired verisimilitude (r/flicks) |
+| 2026-07-07 | Steve Jobs (2015, Danny Boyle) vs. The Social Network — three-film-stock structure (16mm/35mm/digital) tracking Jobs' arc (r/movies) |
+| 2026-07-07 | Exit 8 (2026, Genki Kawamura) — identical-corridor loop camera setup, J-horror trauma-reveal cliché critique (r/TrueFilm) |
+| 2026-07-07 | Searching (2018, Aneesh Chaganty) — screen-life format, webcam finale, comparison to Profile (Bekmambetov) (r/flicks) |
