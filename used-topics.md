@@ -22,3 +22,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-07 | Steve Jobs (2015, Danny Boyle) vs. The Social Network — three-film-stock structure (16mm/35mm/digital) tracking Jobs' arc (r/movies) |
 | 2026-07-07 | Exit 8 (2026, Genki Kawamura) — identical-corridor loop camera setup, J-horror trauma-reveal cliché critique (r/TrueFilm) |
 | 2026-07-07 | Searching (2018, Aneesh Chaganty) — screen-life format, webcam finale, comparison to Profile (Bekmambetov) (r/flicks) |
+| 2026-07-08 | Jodorowsky's Dune (2013, Frank Pavich) / Lost in La Mancha (2002) — unmade-film documentaries, Moebius/Giger/Chris Foss storyboard influence (r/TrueFilm) |
+| 2026-07-08 | The Happening (2008, M. Night Shyamalan) — dead-serious tone vs. unintentional comedy, static wide compositions (r/flicks) |
+| 2026-07-08 | Your Name (2016, Makoto Shinkai) — kataware-doki shrine sequence, photorealistic-to-painterly visual shift (r/movies) |
