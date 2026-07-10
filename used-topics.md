@@ -28,3 +28,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-09 | Burning (2018, Lee Chang-dong) — sunset dance long take, Hong Kyung-pyo natural-light cinematography, narrative ambiguity (r/TrueFilm) |
 | 2026-07-09 | Cinerama vs 4DX — three-panel seam blocking constraints, How the West Was Won, IMAX expanded ratio vs gimmick tech (r/flicks) |
 | 2026-07-09 | Dune: Part Three trailer — Villeneuve/Greig Fraser stillness-for-scale (sandworm ride), Dune Messiah tonal shift (r/movies) |
+| 2026-07-10 | Andy Warhol's Flesh (1968, dir. Paul Morrissey) — static long-take aesthetic bolted onto barely-fictional plot, Dallesandro's real-life hustling backstory (r/TrueFilm) |
+| 2026-07-10 | Imaginary director-swap game — invented Cold Harbor (Reichardt/Bay reshoot), Justice League Whedon reshoots comparison (r/flicks) |
+| 2026-07-10 | Superbad (2007, Greg Mottola) — restrained static two-shot camera style vs. quick-cut teen comedy norms (r/movies) |
