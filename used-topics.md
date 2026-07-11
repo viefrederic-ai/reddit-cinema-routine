@@ -31,3 +31,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-10 | Andy Warhol's Flesh (1968, dir. Paul Morrissey) — static long-take aesthetic bolted onto barely-fictional plot, Dallesandro's real-life hustling backstory (r/TrueFilm) |
 | 2026-07-10 | Imaginary director-swap game — invented Cold Harbor (Reichardt/Bay reshoot), Justice League Whedon reshoots comparison (r/flicks) |
 | 2026-07-10 | Superbad (2007, Greg Mottola) — restrained static two-shot camera style vs. quick-cut teen comedy norms (r/movies) |
+| 2026-07-11 | The Exorcist (1973, William Friedkin) — Owen Roizman naturalistic/undramatic lighting, sparse Tubular Bells-bookended score vs. modern possession-movie scoring tropes (r/TrueFilm) |
+| 2026-07-11 | Paris, Texas (1984, Wim Wenders) — Robby Müller one-way-mirror peep-show booth cinematography, belonging/visibility theme (r/TrueFilm) |
+| 2026-07-11 | Audition (1999, Takashi Miike) — genre bait-and-switch structure, dream-sequence-as-unreliable-backstory device (r/flicks) |
