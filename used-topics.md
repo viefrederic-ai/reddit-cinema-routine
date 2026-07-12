@@ -34,3 +34,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-11 | The Exorcist (1973, William Friedkin) — Owen Roizman naturalistic/undramatic lighting, sparse Tubular Bells-bookended score vs. modern possession-movie scoring tropes (r/TrueFilm) |
 | 2026-07-11 | Paris, Texas (1984, Wim Wenders) — Robby Müller one-way-mirror peep-show booth cinematography, belonging/visibility theme (r/TrueFilm) |
 | 2026-07-11 | Audition (1999, Takashi Miike) — genre bait-and-switch structure, dream-sequence-as-unreliable-backstory device (r/flicks) |
+| 2026-07-12 | Possession (1981, Andrzej Żuławski) — Adjani subway breakdown, Bruno Nuytten camerawork tied to Żuławski's own divorce during shooting (r/TrueFilm) |
+| 2026-07-12 | Chain Reaction (1996, Andrew Davis) vs. The Fugitive — practical train/prison-bus wreck in one take, scripted rewrite from CIA-weapons plot to hydrogen conspiracy (r/flicks) |
+| 2026-07-12 | Perks of Being a Wallflower (2012, Stephen Chbosky) — author-directed adaptation, tunnel scene staged to "Heroes," Logan Lerman blocking (r/flicks) |
