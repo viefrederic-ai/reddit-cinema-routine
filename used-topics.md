@@ -37,3 +37,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-12 | Possession (1981, Andrzej Żuławski) — Adjani subway breakdown, Bruno Nuytten camerawork tied to Żuławski's own divorce during shooting (r/TrueFilm) |
 | 2026-07-12 | Chain Reaction (1996, Andrew Davis) vs. The Fugitive — practical train/prison-bus wreck in one take, scripted rewrite from CIA-weapons plot to hydrogen conspiracy (r/flicks) |
 | 2026-07-12 | Perks of Being a Wallflower (2012, Stephen Chbosky) — author-directed adaptation, tunnel scene staged to "Heroes," Logan Lerman blocking (r/flicks) |
+| 2026-07-13 | Cielo (2025, Alberto Sciamma) — Bolivia location shoot, magical-realist color grading, Fantasporto Best Cinematography win (r/TrueFilm) |
+| 2026-07-13 | Yasujiro Ozu — tatami-level camera, pillow shots, mono no aware as sensibility vs. style distinction (r/TrueFilm) |
+| 2026-07-13 | Barry Lyndon (1975, Stanley Kubrick) — John Alcott candlelit cinematography with NASA-developed Zeiss f/0.7 lenses (r/flicks) |
