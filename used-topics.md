@@ -40,3 +40,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-13 | Cielo (2025, Alberto Sciamma) — Bolivia location shoot, magical-realist color grading, Fantasporto Best Cinematography win (r/TrueFilm) |
 | 2026-07-13 | Yasujiro Ozu — tatami-level camera, pillow shots, mono no aware as sensibility vs. style distinction (r/TrueFilm) |
 | 2026-07-13 | Barry Lyndon (1975, Stanley Kubrick) — John Alcott candlelit cinematography with NASA-developed Zeiss f/0.7 lenses (r/flicks) |
+| 2026-07-14 | The Conformist (1970, Bernardo Bertolucci) — Vittorio Storaro's fascist-ministry corridor scale/shadow work vs. natural-light Quadri assassination scene (r/TrueFilm) |
+| 2026-07-14 | Dog Day Afternoon (1975, Sidney Lumet) — Victor J. Kemper's documentary-style Brooklyn heat photography, near-total absence of non-diegetic score (r/flicks) |
+| 2026-07-14 | Moana (2016 animated) vs. 2026 live-action remake — animation-only visual devices (Te Kā/Te Fiti transformation) lost in photoreal remakes, Aladdin/Lion King comparison (r/movies) |
