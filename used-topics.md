@@ -43,3 +43,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-14 | The Conformist (1970, Bernardo Bertolucci) — Vittorio Storaro's fascist-ministry corridor scale/shadow work vs. natural-light Quadri assassination scene (r/TrueFilm) |
 | 2026-07-14 | Dog Day Afternoon (1975, Sidney Lumet) — Victor J. Kemper's documentary-style Brooklyn heat photography, near-total absence of non-diegetic score (r/flicks) |
 | 2026-07-14 | Moana (2016 animated) vs. 2026 live-action remake — animation-only visual devices (Te Kā/Te Fiti transformation) lost in photoreal remakes, Aladdin/Lion King comparison (r/movies) |
+| 2026-07-15 | I'm Not There (2007, Todd Haynes) / Jackie (2016, Pablo Larraín) — six-actor fractured-Dylan biopic device, JFK-assassination-days compression via tight close-ups (r/TrueFilm) |
+| 2026-07-15 | The Conversation (1974, Francis Ford Coppola) — Walter Murch's reinterpreted-tape sound design, same-year/same-director contrast with The Godfather Part II (r/flicks) |
+| 2026-07-15 | Mad Max: Fury Road (2015, George Miller) — Margaret Sixel's non-action-background editing discipline, contrast with Avengers: Doomsday runtime discourse (r/movies) |
