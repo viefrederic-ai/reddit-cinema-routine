@@ -46,3 +46,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-15 | I'm Not There (2007, Todd Haynes) / Jackie (2016, Pablo Larraín) — six-actor fractured-Dylan biopic device, JFK-assassination-days compression via tight close-ups (r/TrueFilm) |
 | 2026-07-15 | The Conversation (1974, Francis Ford Coppola) — Walter Murch's reinterpreted-tape sound design, same-year/same-director contrast with The Godfather Part II (r/flicks) |
 | 2026-07-15 | Mad Max: Fury Road (2015, George Miller) — Margaret Sixel's non-action-background editing discipline, contrast with Avengers: Doomsday runtime discourse (r/movies) |
+| 2026-07-16 | The Odyssey (2026, Christopher Nolan) / IMAX 70mm projection — 15-perf horizontal gate, ~50-year-old projector heads, Gelfond hardware-bottleneck explanation (r/movies) |
+| 2026-07-16 | Nomadland (2020, Chloé Zhao) — Joshua James Richards natural-light/magic-hour cinematography, Linda May/Swankie real-nomad casting (r/TrueFilm) |
+| 2026-07-16 | Don't Look Now (1973, Nicolas Roeg) — Graeme Clifford's intercut love/dressing-scene editing, Roeg's DP-to-director background (r/flicks) |
