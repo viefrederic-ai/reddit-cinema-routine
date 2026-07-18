@@ -52,3 +52,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-17 | Lone Star (1996, John Sayles) — Stuart Dryburgh no-cut pan transitions between timelines, cut-as-border thesis (r/TrueFilm) |
 | 2026-07-17 | Jaws (1975, Steven Spielberg) — Bruce the malfunctioning animatronic shark forcing Hitchcockian suggestion over spectacle, vs. Benchley novel (r/flicks) |
 | 2026-07-17 | Backrooms (2026, Kane Parsons) / A24 copyright strikes on fan art — Slender Man (2018, Eric Knudsen/Sony) legal precedent comparison (r/movies) |
+| 2026-07-18 | IMAX 15/70 vs digital laser cropping — Oppenheimer 600lb/53-reel print, DCP master delivery per aspect ratio (r/TrueFilm) |
+| 2026-07-18 | The Shining (1980, Stanley Kubrick) — Garrett Brown Steadicam, King's dislike of the adaptation vs. book fidelity (r/flicks) |
+| 2026-07-18 | Netflix generative AI usage (300 programs) — Late Night with the Devil (2024) AI title-card backlash comparison (r/movies) |
