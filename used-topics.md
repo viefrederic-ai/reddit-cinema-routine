@@ -55,3 +55,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-18 | IMAX 15/70 vs digital laser cropping — Oppenheimer 600lb/53-reel print, DCP master delivery per aspect ratio (r/TrueFilm) |
 | 2026-07-18 | The Shining (1980, Stanley Kubrick) — Garrett Brown Steadicam, King's dislike of the adaptation vs. book fidelity (r/flicks) |
 | 2026-07-18 | Netflix generative AI usage (300 programs) — Late Night with the Devil (2024) AI title-card backlash comparison (r/movies) |
+| 2026-07-19 | Wolf (1994, Mike Nichols) — Giuseppe Rotunno restrained corporate-drama cinematography, Rick Baker's deliberately low-key transformation effects (r/TrueFilm) |
+| 2026-07-19 | Suicide Squad (2016, David Ayer) — Trailer Park Inc. trailer-house re-edit of theatrical cut vs. Ayer's original cut (r/flicks) |
+| 2026-07-19 | Get Out (2017, Jordan Peele) — teacup/spoon hypnosis trigger insert shots, Toby Oliver cinematography, "why didn't he run" plot-hole misconception (r/movies) |
