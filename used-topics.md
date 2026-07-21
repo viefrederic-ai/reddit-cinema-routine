@@ -61,3 +61,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-20 | Birdman (2014, Alejandro G. Iñárritu) — Emmanuel Lubezki stitched-long-take illusion, Keaton's Steadicam-tracked backstage sprints (r/movies) |
 | 2026-07-20 | The Master (2012, Paul Thomas Anderson) — Mihai Mălaimare Jr. 65mm cinematography, "don't blink" processing scene with Phoenix/Hoffman (r/flicks) |
 | 2026-07-20 | Uncut Gems (2019, Safdie Brothers) — Darius Khondji telephoto-through-glass compression, no-cutaway editing philosophy (r/TrueFilm) |
+| 2026-07-21 | Whiplash (2014, Damien Chazelle) — Tom Cross's rhythm-driven editing in the "out of tune" scene, tension-as-antagonist device (r/movies) |
+| 2026-07-21 | You Were Never Really Here (2017, Lynne Ramsay) — brothel rescue via black-and-white security-camera footage, Jonny Greenwood score (r/flicks) |
+| 2026-07-21 | Bong Joon-ho career evolution — Memories of Murder procedural dread vs. Parasite's staircase descent as class metaphor (r/flicks) |
