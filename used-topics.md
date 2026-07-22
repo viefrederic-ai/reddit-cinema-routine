@@ -64,3 +64,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-21 | Whiplash (2014, Damien Chazelle) — Tom Cross's rhythm-driven editing in the "out of tune" scene, tension-as-antagonist device (r/movies) |
 | 2026-07-21 | You Were Never Really Here (2017, Lynne Ramsay) — brothel rescue via black-and-white security-camera footage, Jonny Greenwood score (r/flicks) |
 | 2026-07-21 | Bong Joon-ho career evolution — Memories of Murder procedural dread vs. Parasite's staircase descent as class metaphor (r/flicks) |
+| 2026-07-22 | Pixar image-first storytelling decline — WALL-E wordless first act (Ben Burtt sound design), Up "Married Life" montage (Kevin Nolting edit), Ratatouille kitchen choreography vs. Elemental's dialogue-heavy metaphor (r/TrueFilm) |
+| 2026-07-22 | Pan's Labyrinth (Guillermo del Toro) — practical maze set, Eugenio Caballero production design, labyrinth-as-rite-of-passage vs. Labyrinth (1986, Jim Henson) (r/flicks) |
+| 2026-07-22 | Michael Keaton physical performance — Knox Goes Away (2023, self-directed, rapid-onset dementia role), Beetlejuice Beetlejuice (2024) physical comedy (r/movies) |
