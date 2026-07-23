@@ -64,3 +64,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-21 | Whiplash (2014, Damien Chazelle) — Tom Cross's rhythm-driven editing in the "out of tune" scene, tension-as-antagonist device (r/movies) |
 | 2026-07-21 | You Were Never Really Here (2017, Lynne Ramsay) — brothel rescue via black-and-white security-camera footage, Jonny Greenwood score (r/flicks) |
 | 2026-07-21 | Bong Joon-ho career evolution — Memories of Murder procedural dread vs. Parasite's staircase descent as class metaphor (r/flicks) |
+| 2026-07-23 | Wanda (1970, Barbara Loden) — Nicholas Proferes 16mm handheld/observational camerawork, anti-aestheticization of protagonist (r/TrueFilm) |
+| 2026-07-23 | Pan's Labyrinth (2006, Guillermo del Toro) — Guillermo Navarro fig-tree tunnel descent, symmetrical framing as birth/rebirth metaphor (r/flicks) |
+| 2026-07-23 | Cloud Atlas (2012, Wachowskis/Tykwer) — Alexander Berner's rhythmic cross-era editing structure, yellowface casting controversy (r/flicks) |
