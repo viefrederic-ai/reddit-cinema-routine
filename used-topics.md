@@ -67,3 +67,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-23 | Wanda (1970, Barbara Loden) — Nicholas Proferes 16mm handheld/observational camerawork, anti-aestheticization of protagonist (r/TrueFilm) |
 | 2026-07-23 | Pan's Labyrinth (2006, Guillermo del Toro) — Guillermo Navarro fig-tree tunnel descent, symmetrical framing as birth/rebirth metaphor (r/flicks) |
 | 2026-07-23 | Cloud Atlas (2012, Wachowskis/Tykwer) — Alexander Berner's rhythmic cross-era editing structure, yellowface casting controversy (r/flicks) |
+| 2026-07-24 | Lav Diaz's Melancholia (2008) — extreme-duration static long takes as trauma device, Tarkovsky "sculpting in time" comparison, postcolonial Filipino martial-law disappearances (r/TrueFilm) |
+| 2026-07-24 | 3D cinema boom (2009-2014) — Avatar/Cameron's Fusion Camera System native stereo vs. Clash of the Titans post-conversion backlash, Scorsese's Hugo/Robert Richardson native 3D mise-en-scène (r/flicks) |
+| 2026-07-24 | Harry Potter cast real-time aging — Radcliffe turning 37 matching Deathly Hallows epilogue, Linklater's Boyhood intentional aging device, Michael Apted's Up documentary series (r/movies) |
