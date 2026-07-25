@@ -70,3 +70,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-24 | Lav Diaz's Melancholia (2008) — extreme-duration static long takes as trauma device, Tarkovsky "sculpting in time" comparison, postcolonial Filipino martial-law disappearances (r/TrueFilm) |
 | 2026-07-24 | 3D cinema boom (2009-2014) — Avatar/Cameron's Fusion Camera System native stereo vs. Clash of the Titans post-conversion backlash, Scorsese's Hugo/Robert Richardson native 3D mise-en-scène (r/flicks) |
 | 2026-07-24 | Harry Potter cast real-time aging — Radcliffe turning 37 matching Deathly Hallows epilogue, Linklater's Boyhood intentional aging device, Michael Apted's Up documentary series (r/movies) |
+| 2026-07-25 | Napoleon (1927, Abel Gance) — Brownlow 5.5hr restoration vs. Georges Mourier/Cinémathèque française 7hr "Apollo Cut", triptych Polyvision finale (r/TrueFilm) |
+| 2026-07-25 | Iconic character status over time — Hans Landa (Inglourious Basterds), Terence Fletcher (Whiplash), accelerated discourse cycle vs. slow cultural accumulation (r/flicks) |
+| 2026-07-25 | Hadestown: The Musical (2026, Brett Sullivan) — Clayton Jacobson filmed-theater cinematography, over-the-shoulder/overhead/split-diopter coverage of David Neumann's choreography (r/movies) |
