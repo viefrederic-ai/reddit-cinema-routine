@@ -73,3 +73,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-25 | Napoleon (1927, Abel Gance) — Brownlow 5.5hr restoration vs. Georges Mourier/Cinémathèque française 7hr "Apollo Cut", triptych Polyvision finale (r/TrueFilm) |
 | 2026-07-25 | Iconic character status over time — Hans Landa (Inglourious Basterds), Terence Fletcher (Whiplash), accelerated discourse cycle vs. slow cultural accumulation (r/flicks) |
 | 2026-07-25 | Hadestown: The Musical (2026, Brett Sullivan) — Clayton Jacobson filmed-theater cinematography, over-the-shoulder/overhead/split-diopter coverage of David Neumann's choreography (r/movies) |
+| 2026-07-26 | Do the Right Thing (1989, Spike Lee) — Ernest Dickerson's hot color grading, Mister Señor Love Daddy's closing "wake up" address (r/TrueFilm) |
+| 2026-07-26 | Tár (2022, Todd Field) — Florian Hoffmeister's static, distant camerawork as deliberate emotional remove (r/TrueFilm) |
+| 2026-07-26 | Your Name Engraved Herein (2020, Liu Kuang-hui) — payphone confession static shot, Blue Gate Crossing (2002) comparison (r/flicks) |
