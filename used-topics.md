@@ -76,3 +76,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-26 | Do the Right Thing (1989, Spike Lee) — Ernest Dickerson's hot color grading, Mister Señor Love Daddy's closing "wake up" address (r/TrueFilm) |
 | 2026-07-26 | Tár (2022, Todd Field) — Florian Hoffmeister's static, distant camerawork as deliberate emotional remove (r/TrueFilm) |
 | 2026-07-26 | Your Name Engraved Herein (2020, Liu Kuang-hui) — payphone confession static shot, Blue Gate Crossing (2002) comparison (r/flicks) |
+| 2026-07-27 | mother! (2017, Darren Aronofsky) — Matthew Libatique's locked subjective camera on Jennifer Lawrence, craft-vs-enjoyment analysis method (r/TrueFilm) |
+| 2026-07-27 | Avatar (2009, James Cameron) — Pandora's consistent six-limbed creature body plan, Eywa as planet-wide neural network (r/flicks) |
+| 2026-07-27 | Speed Racer (2008, Wachowskis) — full green-screen anime-inspired visuals, manga-panel-style wipe transitions (r/flicks) |
