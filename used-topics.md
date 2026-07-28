@@ -79,3 +79,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-27 | mother! (2017, Darren Aronofsky) — Matthew Libatique's locked subjective camera on Jennifer Lawrence, craft-vs-enjoyment analysis method (r/TrueFilm) |
 | 2026-07-27 | Avatar (2009, James Cameron) — Pandora's consistent six-limbed creature body plan, Eywa as planet-wide neural network (r/flicks) |
 | 2026-07-27 | Speed Racer (2008, Wachowskis) — full green-screen anime-inspired visuals, manga-panel-style wipe transitions (r/flicks) |
+| 2026-07-28 | Targets (1968, Peter Bogdanovich) vs. Citizen Kane (1941, Orson Welles) — deep-focus staging as directorial-debut control, Gregg Toland's foreground/background single-frame technique (r/TrueFilm) |
+| 2026-07-28 | Days of Heaven (1978, Terrence Malick) — Néstor Almendros/Haskell Wexler magic-hour natural-light cinematography, director-as-brand discussion (r/flicks) |
+| 2026-07-28 | Scott Pilgrim vs. the World (2010, Edgar Wright) — visual/editing exposition (title cards, video-game UI, match cuts) replacing "as you know, Bob" dialogue (r/TrueFilm) |
