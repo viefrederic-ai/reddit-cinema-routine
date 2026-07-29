@@ -82,3 +82,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-28 | Targets (1968, Peter Bogdanovich) vs. Citizen Kane (1941, Orson Welles) — deep-focus staging as directorial-debut control, Gregg Toland's foreground/background single-frame technique (r/TrueFilm) |
 | 2026-07-28 | Days of Heaven (1978, Terrence Malick) — Néstor Almendros/Haskell Wexler magic-hour natural-light cinematography, director-as-brand discussion (r/flicks) |
 | 2026-07-28 | Scott Pilgrim vs. the World (2010, Edgar Wright) — visual/editing exposition (title cards, video-game UI, match cuts) replacing "as you know, Bob" dialogue (r/TrueFilm) |
+| 2026-07-29 | Toy Story franchise (Pixar) — 1995 rendering constraints (no convincing human skin/cloth) shaping the toy-centric concept, RenderMan evolution to TS5 (r/movies) |
+| 2026-07-29 | Russian Ark (2002, Alexander Sokurov) — unbroken 96-minute Steadicam take, Tilman Büttner, ~33 Hermitage rooms, ~2,000 extras, Tarkovsky's "sculpting in time" (r/TrueFilm) |
+| 2026-07-29 | The Cat in the Hat (2003, Bo Welch) — production-designer-turned-first-time-director, Mike Myers on-set friction, Audrey Geisel's displeasure stalling live-action Seuss adaptations (r/flicks) |
