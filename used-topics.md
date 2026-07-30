@@ -85,3 +85,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-29 | Toy Story franchise (Pixar) — 1995 rendering constraints (no convincing human skin/cloth) shaping the toy-centric concept, RenderMan evolution to TS5 (r/movies) |
 | 2026-07-29 | Russian Ark (2002, Alexander Sokurov) — unbroken 96-minute Steadicam take, Tilman Büttner, ~33 Hermitage rooms, ~2,000 extras, Tarkovsky's "sculpting in time" (r/TrueFilm) |
 | 2026-07-29 | The Cat in the Hat (2003, Bo Welch) — production-designer-turned-first-time-director, Mike Myers on-set friction, Audrey Geisel's displeasure stalling live-action Seuss adaptations (r/flicks) |
+| 2026-07-30 | Tokyo Trash Baby (2000, Ryuichi Hiroki) — Love Cinema DV series (CineRocket), contrast with Miike's Visitor Q, trash-as-emotional-residue via handheld intimacy (r/TrueFilm) |
+| 2026-07-30 | Oldboy (2003, Park Chan-wook) — Chung Chung-hoon's continuous side-scrolling hallway fight take, 17 takes/3 days, twist recontextualizing the scene (r/flicks) |
+| 2026-07-30 | Be Kind Rewind (2008, Michel Gondry) — video-store browsing friction vs. streaming recommendation feeds, tied to a walkable 3D Blockbuster recreation project (r/movies) |
