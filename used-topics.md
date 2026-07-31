@@ -88,3 +88,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-30 | Tokyo Trash Baby (2000, Ryuichi Hiroki) — Love Cinema DV series (CineRocket), contrast with Miike's Visitor Q, trash-as-emotional-residue via handheld intimacy (r/TrueFilm) |
 | 2026-07-30 | Oldboy (2003, Park Chan-wook) — Chung Chung-hoon's continuous side-scrolling hallway fight take, 17 takes/3 days, twist recontextualizing the scene (r/flicks) |
 | 2026-07-30 | Be Kind Rewind (2008, Michel Gondry) — video-store browsing friction vs. streaming recommendation feeds, tied to a walkable 3D Blockbuster recreation project (r/movies) |
+| 2026-07-31 | Gone with the Wind (1939, Victor Fleming) — William Cameron Menzies' "Production Designed by" credit origin, Cukor/Fleming/Wood director handoffs (r/TrueFilm) |
+| 2026-07-31 | Fight Club (1999, David Fincher) — subliminal single-frame Tyler Durden splices before the "reveal" (r/flicks) |
+| 2026-07-31 | Irreversible (2002, Gaspar Noé) — tunnel scene shot to look like one unbroken take, Benoît Debie cinematography, reverse chronology structure (r/flicks) |
