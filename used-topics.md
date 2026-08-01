@@ -88,3 +88,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-07-30 | Tokyo Trash Baby (2000, Ryuichi Hiroki) — Love Cinema DV series (CineRocket), contrast with Miike's Visitor Q, trash-as-emotional-residue via handheld intimacy (r/TrueFilm) |
 | 2026-07-30 | Oldboy (2003, Park Chan-wook) — Chung Chung-hoon's continuous side-scrolling hallway fight take, 17 takes/3 days, twist recontextualizing the scene (r/flicks) |
 | 2026-07-30 | Be Kind Rewind (2008, Michel Gondry) — video-store browsing friction vs. streaming recommendation feeds, tied to a walkable 3D Blockbuster recreation project (r/movies) |
+| 2026-08-01 | Gone with the Wind (1939, Victor Fleming) — B. Reeves Eason second-unit burning of Atlanta, Dec 1938 shoot predating Vivien Leigh's casting (r/TrueFilm) |
+| 2026-08-01 | The Usual Suspects (1995, Bryan Singer) — John Ottman's dual editor/composer role, closing reveal recap montage recontextualizing earlier objects/shots (r/flicks) |
+| 2026-08-01 | Requiem for a Dream (2000, Darren Aronofsky) — Jay Rabinowitz "hip-hop montage" editing, 2,000+ cuts, Clint Mansell's "Lux Aeterna" (r/flicks) |
