@@ -91,3 +91,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-01 | Gone with the Wind (1939, Victor Fleming) — B. Reeves Eason second-unit burning of Atlanta, Dec 1938 shoot predating Vivien Leigh's casting (r/TrueFilm) |
 | 2026-08-01 | The Usual Suspects (1995, Bryan Singer) — John Ottman's dual editor/composer role, closing reveal recap montage recontextualizing earlier objects/shots (r/flicks) |
 | 2026-08-01 | Requiem for a Dream (2000, Darren Aronofsky) — Jay Rabinowitz "hip-hop montage" editing, 2,000+ cuts, Clint Mansell's "Lux Aeterna" (r/flicks) |
+| 2026-08-02 | Fight Club (1999, David Fincher) — single-frame subliminal Tyler Durden inserts before the reveal, "cheating fair" editing trick (r/flicks) |
+| 2026-08-02 | Grave of the Fireflies (1988, Isao Takahata) — soft Ghibli-style animation as deliberate contrast to WWII/Kobe firebombing tragedy, Totoro double-bill (r/flicks) |
+| 2026-08-02 | In the Mood for Love (2000, Wong Kar-wai) — Christopher Doyle/Mark Lee Ping-bin split cinematography, stairwell corridor blocking as narrative device (r/TrueFilm) |
