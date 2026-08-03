@@ -94,3 +94,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-02 | Fight Club (1999, David Fincher) — single-frame subliminal Tyler Durden inserts before the reveal, "cheating fair" editing trick (r/flicks) |
 | 2026-08-02 | Grave of the Fireflies (1988, Isao Takahata) — soft Ghibli-style animation as deliberate contrast to WWII/Kobe firebombing tragedy, Totoro double-bill (r/flicks) |
 | 2026-08-02 | In the Mood for Love (2000, Wong Kar-wai) — Christopher Doyle/Mark Lee Ping-bin split cinematography, stairwell corridor blocking as narrative device (r/TrueFilm) |
+| 2026-08-03 | Drive (2011, Nicolas Winding Refn) — elevator kiss/violence tonal shift, Newton Thomas Sigel cinematography, Cliff Martinez score cue, ambiguous ending (r/TrueFilm) |
+| 2026-08-03 | Vanilla Sky (2001, Cameron Crowe) — Abre los Ojos (Amenábar) remake comparison, real Times Square street-closure shoot (r/flicks) |
+| 2026-08-03 | From Dusk Till Dawn (1996, Robert Rodriguez/Tarantino) — midpoint genre-shift as geographic border crossing, crime-to-horror visual language flip (r/movies) |
