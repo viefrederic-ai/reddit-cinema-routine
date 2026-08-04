@@ -97,3 +97,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-03 | Drive (2011, Nicolas Winding Refn) — elevator kiss/violence tonal shift, Newton Thomas Sigel cinematography, Cliff Martinez score cue, ambiguous ending (r/TrueFilm) |
 | 2026-08-03 | Vanilla Sky (2001, Cameron Crowe) — Abre los Ojos (Amenábar) remake comparison, real Times Square street-closure shoot (r/flicks) |
 | 2026-08-03 | From Dusk Till Dawn (1996, Robert Rodriguez/Tarantino) — midpoint genre-shift as geographic border crossing, crime-to-horror visual language flip (r/movies) |
+| 2026-08-04 | The General (1926, Buster Keaton) — real locomotive/collapsing trestle single-take stunt over the Row River, Oregon, filmed vs. simulated physics (r/TrueFilm) |
+| 2026-08-04 | Zodiac (2007, David Fincher) — Harris Savides cinematography, July 4 1969 Blue Rock Springs Park opening attack, procedural-pacing patience (r/flicks) |
+| 2026-08-04 | Cabin in the Woods (2011, Drew Goddard) — control-room cutaway foreshadowing, slasher-to-monster-rampage genre flip, practical creature effects (r/movies) |
