@@ -100,3 +100,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-04 | The General (1926, Buster Keaton) — real locomotive/collapsing trestle single-take stunt over the Row River, Oregon, filmed vs. simulated physics (r/TrueFilm) |
 | 2026-08-04 | Zodiac (2007, David Fincher) — Harris Savides cinematography, July 4 1969 Blue Rock Springs Park opening attack, procedural-pacing patience (r/flicks) |
 | 2026-08-04 | Cabin in the Woods (2011, Drew Goddard) — control-room cutaway foreshadowing, slasher-to-monster-rampage genre flip, practical creature effects (r/movies) |
+| 2026-08-05 | Troy (2004, Wolfgang Petersen) — Roger Pratt handheld/horror-style Paris-Menelaus duel vs. operatic Hector-Achilles framing (r/movies) |
+| 2026-08-05 | The Sacrifice (1986, Andrei Tarkovsky) — Sven Nykvist single 6m50s burning-house take, camera jam forcing a full house rebuild/two-camera reshoot (r/TrueFilm) |
+| 2026-08-05 | North by Northwest (1959, Alfred Hitchcock) — crop-duster scene, near-total absence of Bernard Herrmann score for ~9 minutes (r/flicks) |
