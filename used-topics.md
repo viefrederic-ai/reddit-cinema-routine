@@ -103,3 +103,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-05 | Troy (2004, Wolfgang Petersen) — Roger Pratt handheld/horror-style Paris-Menelaus duel vs. operatic Hector-Achilles framing (r/movies) |
 | 2026-08-05 | The Sacrifice (1986, Andrei Tarkovsky) — Sven Nykvist single 6m50s burning-house take, camera jam forcing a full house rebuild/two-camera reshoot (r/TrueFilm) |
 | 2026-08-05 | North by Northwest (1959, Alfred Hitchcock) — crop-duster scene, near-total absence of Bernard Herrmann score for ~9 minutes (r/flicks) |
+| 2026-08-06 | Blade Runner (1982, Ridley Scott) vs. Do Androids Dream of Electric Sheep? (Philip K. Dick) — Mercerism/theology cut from adaptation, Dick's Dec. 1981 effects-reel reaction (r/TrueFilm) |
+| 2026-08-06 | James Wan — Malignant (2021) post-Aquaman Starlight Media deal funding a passion project, New Line distribution (r/flicks) |
+| 2026-08-06 | Hereditary (2018, Ari Aster) — telephone pole scene, no cutaway at moment of impact, sound cut to silence (r/flicks) |
