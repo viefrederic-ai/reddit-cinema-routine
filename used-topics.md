@@ -106,3 +106,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-06 | Blade Runner (1982, Ridley Scott) vs. Do Androids Dream of Electric Sheep? (Philip K. Dick) — Mercerism/theology cut from adaptation, Dick's Dec. 1981 effects-reel reaction (r/TrueFilm) |
 | 2026-08-06 | James Wan — Malignant (2021) post-Aquaman Starlight Media deal funding a passion project, New Line distribution (r/flicks) |
 | 2026-08-06 | Hereditary (2018, Ari Aster) — telephone pole scene, no cutaway at moment of impact, sound cut to silence (r/flicks) |
+| 2026-08-07 | Godzilla Minus Zero (2023, Takashi Yamazaki) — triple-duty director/writer/VFX supervisor, small compositing team vs. blockbuster budgets, runtime reveal (r/movies) |
+| 2026-08-07 | American Psycho (2000, Mary Harron) — fidelity-to-tone vs. fidelity-to-plot adaptation debate, satire pivot from Bret Easton Ellis's novel (r/TrueFilm) |
+| 2026-08-07 | Sinners (2025, Ryan Coogler) — Warner Bros passion-project deal (first-dollar gross, 25-year rights reversion), blockbuster leverage funding an original genre film (r/flicks) |
