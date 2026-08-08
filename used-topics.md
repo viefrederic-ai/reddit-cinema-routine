@@ -109,3 +109,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-07 | Godzilla Minus Zero (2023, Takashi Yamazaki) — triple-duty director/writer/VFX supervisor, small compositing team vs. blockbuster budgets, runtime reveal (r/movies) |
 | 2026-08-07 | American Psycho (2000, Mary Harron) — fidelity-to-tone vs. fidelity-to-plot adaptation debate, satire pivot from Bret Easton Ellis's novel (r/TrueFilm) |
 | 2026-08-07 | Sinners (2025, Ryan Coogler) — Warner Bros passion-project deal (first-dollar gross, 25-year rights reversion), blockbuster leverage funding an original genre film (r/flicks) |
+| 2026-08-08 | Chinatown (1974, Roman Polanski) — John A. Alonzo's gold-cast color noir cinematography, Towne/Polanski ending dispute (r/TrueFilm) |
+| 2026-08-08 | Farewell My Concubine (1993, Chen Kaige) — Gu Changwei's opera-stage-vs-backstage visual contrast, 1993 Cannes Palme d'Or tie with The Piano, mainland China censorship (r/TrueFilm) |
+| 2026-08-08 | Se7en (1995, David Fincher) — Darius Khondji bleach-bypass cinematography, New Line's rejected alternate ending, Pitt/Freeman backing Fincher's cut (r/flicks) |
