@@ -112,3 +112,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-08 | Chinatown (1974, Roman Polanski) — John A. Alonzo's gold-cast color noir cinematography, Towne/Polanski ending dispute (r/TrueFilm) |
 | 2026-08-08 | Farewell My Concubine (1993, Chen Kaige) — Gu Changwei's opera-stage-vs-backstage visual contrast, 1993 Cannes Palme d'Or tie with The Piano, mainland China censorship (r/TrueFilm) |
 | 2026-08-08 | Se7en (1995, David Fincher) — Darius Khondji bleach-bypass cinematography, New Line's rejected alternate ending, Pitt/Freeman backing Fincher's cut (r/flicks) |
+| 2026-08-09 | Enemy (2013, Denis Villeneuve) — Nicolas Bolduc's sickly yellow color grade, recurring spider motif building to the ambiguous ending (r/movies) |
+| 2026-08-09 | The Killing of a Sacred Deer (2017, Yorgos Lanthimos) — Barry Keoghan's toneless performance, Thimios Bakatakis locked-down/wide camera style (r/TrueFilm) |
+| 2026-08-09 | There Will Be Blood (2007, Paul Thomas Anderson) — ~15-minute dialogue-free opening, Robert Elswit cinematography, Jonny Greenwood score dropping in and out (r/flicks) |
