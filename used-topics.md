@@ -115,3 +115,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-09 | Enemy (2013, Denis Villeneuve) — Nicolas Bolduc's sickly yellow color grade, recurring spider motif building to the ambiguous ending (r/movies) |
 | 2026-08-09 | The Killing of a Sacred Deer (2017, Yorgos Lanthimos) — Barry Keoghan's toneless performance, Thimios Bakatakis locked-down/wide camera style (r/TrueFilm) |
 | 2026-08-09 | There Will Be Blood (2007, Paul Thomas Anderson) — ~15-minute dialogue-free opening, Robert Elswit cinematography, Jonny Greenwood score dropping in and out (r/flicks) |
+| 2026-08-10 | Metropolis (1927, Fritz Lang) — Maschinenmensch Tesla-coil activation scene, Eugen Schüfftan's mirror-based Schüfftan process for the city skyline shots (r/flicks) |
+| 2026-08-10 | To Be or Not to Be (1942, Ernst Lubitsch) — "Concentration Camp Ehrhardt" line staged as a throwaway backstage joke, no-close-up restraint, Carole Lombard's death weeks before release (r/TrueFilm) |
+| 2026-08-10 | Life is Beautiful (1997, Roberto Benigni) — Guido's off-screen execution vs. the fairy-tale "happy ending," Chaplin's The Great Dictator comparison (r/movies) |
