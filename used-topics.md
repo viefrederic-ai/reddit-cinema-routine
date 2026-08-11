@@ -118,3 +118,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-10 | Metropolis (1927, Fritz Lang) — Maschinenmensch Tesla-coil activation scene, Eugen Schüfftan's mirror-based Schüfftan process for the city skyline shots (r/flicks) |
 | 2026-08-10 | To Be or Not to Be (1942, Ernst Lubitsch) — "Concentration Camp Ehrhardt" line staged as a throwaway backstage joke, no-close-up restraint, Carole Lombard's death weeks before release (r/TrueFilm) |
 | 2026-08-10 | Life is Beautiful (1997, Roberto Benigni) — Guido's off-screen execution vs. the fairy-tale "happy ending," Chaplin's The Great Dictator comparison (r/movies) |
+| 2026-08-11 | The Truman Show (1998, Peter Weir) — Peter Biziou's simulated hidden-camera/fisheye aesthetic, ambiguous "happy" ending (r/movies) |
+| 2026-08-11 | The Christophers (2025, Steven Soderbergh) — Peter Andrews/Mary Ann Bernard self-shooting/editing pseudonyms, rapid post-Logan Lucky turnaround (r/TrueFilm) |
+| 2026-08-11 | Goodfellas (1990, Martin Scorsese) — Michael Ballhaus/Larry McConkey Copacabana Steadicam tracking shot (r/flicks) |
