@@ -121,3 +121,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-11 | The Truman Show (1998, Peter Weir) — Peter Biziou's simulated hidden-camera/fisheye aesthetic, ambiguous "happy" ending (r/movies) |
 | 2026-08-11 | The Christophers (2025, Steven Soderbergh) — Peter Andrews/Mary Ann Bernard self-shooting/editing pseudonyms, rapid post-Logan Lucky turnaround (r/TrueFilm) |
 | 2026-08-11 | Goodfellas (1990, Martin Scorsese) — Michael Ballhaus/Larry McConkey Copacabana Steadicam tracking shot (r/flicks) |
+| 2026-08-12 | The Wolf of Wall Street (2013, Martin Scorsese) — Rodrigo Prieto anamorphic lenses/direct-address narration vs. Denham's flat observational coverage (r/TrueFilm) |
+| 2026-08-12 | I Saw the Devil (2010, Kim Jee-woon) — Lee Mo-gae's 360-degree spinning taxi knife fight, blood-soaked costume reshoots (r/flicks) |
+| 2026-08-12 | Three Kings (1999, David O. Russell) — Newton Thomas Sigel Ektachrome/bleach-bypass process, Mark Wahlberg casting discussion (r/movies) |
