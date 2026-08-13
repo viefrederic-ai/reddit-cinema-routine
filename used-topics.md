@@ -124,3 +124,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-12 | The Wolf of Wall Street (2013, Martin Scorsese) — Rodrigo Prieto anamorphic lenses/direct-address narration vs. Denham's flat observational coverage (r/TrueFilm) |
 | 2026-08-12 | I Saw the Devil (2010, Kim Jee-woon) — Lee Mo-gae's 360-degree spinning taxi knife fight, blood-soaked costume reshoots (r/flicks) |
 | 2026-08-12 | Three Kings (1999, David O. Russell) — Newton Thomas Sigel Ektachrome/bleach-bypass process, Mark Wahlberg casting discussion (r/movies) |
+| 2026-08-13 | The Gambler (2014, Rupert Wyatt) vs. original (1974, Karel Reisz) — Wahlberg's Camus classroom monologue vs. James Caan's self-destructive charisma (r/movies) |
+| 2026-08-13 | Full Metal Jacket (1987, Stanley Kubrick) vs. Platoon (1986, Oliver Stone) — Beckton Gas Works as Hue, imported Spanish palm trees, constructed vs. documentary "truth" (r/TrueFilm) |
+| 2026-08-13 | Big Trouble in Little China (1986, John Carpenter) — Kurt Russell's blowhard John Wayne performance vs. Dennis Dun's Wang Chi as the real hero (r/flicks) |
