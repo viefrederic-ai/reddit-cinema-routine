@@ -127,3 +127,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-13 | The Gambler (2014, Rupert Wyatt) vs. original (1974, Karel Reisz) — Wahlberg's Camus classroom monologue vs. James Caan's self-destructive charisma (r/movies) |
 | 2026-08-13 | Full Metal Jacket (1987, Stanley Kubrick) vs. Platoon (1986, Oliver Stone) — Beckton Gas Works as Hue, imported Spanish palm trees, constructed vs. documentary "truth" (r/TrueFilm) |
 | 2026-08-13 | Big Trouble in Little China (1986, John Carpenter) — Kurt Russell's blowhard John Wayne performance vs. Dennis Dun's Wang Chi as the real hero (r/flicks) |
+| 2026-08-14 | Coherence (2013, James Ward Byrkit) — sealed-envelope improvisation method, glow-stick device tracking parallel timelines (r/movies) |
+| 2026-08-14 | The Cremaster Cycle (Matthew Barney) — Guggenheim rotunda installation context, Cremaster 3/Chrysler Building as entry point (r/TrueFilm) |
+| 2026-08-14 | James Gunn's DCU / Supergirl AI VFX backlash — generative AI vs. ML-assisted workflow tools distinction, The Flash (2023) VFX controversy comparison (r/flicks) |
