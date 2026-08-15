@@ -130,3 +130,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-14 | Coherence (2013, James Ward Byrkit) — sealed-envelope improvisation method, glow-stick device tracking parallel timelines (r/movies) |
 | 2026-08-14 | The Cremaster Cycle (Matthew Barney) — Guggenheim rotunda installation context, Cremaster 3/Chrysler Building as entry point (r/TrueFilm) |
 | 2026-08-14 | James Gunn's DCU / Supergirl AI VFX backlash — generative AI vs. ML-assisted workflow tools distinction, The Flash (2023) VFX controversy comparison (r/flicks) |
+| 2026-08-15 | The Prestige (2006, Christopher Nolan) — nested diary-within-a-diary structure hiding the twin/cloning-machine reveals, "are you watching closely?" (r/movies) |
+| 2026-08-15 | Blonde (2022, Andrew Dominik) — Chayse Irvin's aspect-ratio and black-and-white/color shifts tracking Norma Jeane's dissociation, discourse flattened to exploitation debate (r/TrueFilm) |
+| 2026-08-15 | Force Majeure (2014, Ruben Östlund) — Fredrik Wenzel's static symmetrical wide shots, discomfort-as-comedy avalanche premise (r/flicks) |
