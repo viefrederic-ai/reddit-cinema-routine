@@ -133,3 +133,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-15 | The Prestige (2006, Christopher Nolan) — nested diary-within-a-diary structure hiding the twin/cloning-machine reveals, "are you watching closely?" (r/movies) |
 | 2026-08-15 | Blonde (2022, Andrew Dominik) — Chayse Irvin's aspect-ratio and black-and-white/color shifts tracking Norma Jeane's dissociation, discourse flattened to exploitation debate (r/TrueFilm) |
 | 2026-08-15 | Force Majeure (2014, Ruben Östlund) — Fredrik Wenzel's static symmetrical wide shots, discomfort-as-comedy avalanche premise (r/flicks) |
+| 2026-08-17 | The Brutalist (2024, Brady Corbet) — Lol Crawley VistaVision 70mm, 215-min runtime/intermission as deliberate form-follows-endurance argument (r/TrueFilm) |
+| 2026-08-17 | The Pursuit of Happyness (2006, Gabriele Muccino) — Phedon Papamichael's warm handheld subjective camera on Chris Gardner vs. static distant framing of Linda (r/movies) |
+| 2026-08-17 | Midnight Run (1988, Martin Brest) — De Niro's dramatic-actor stillness as comedic device vs. Charles Grodin, two-shot staging (r/flicks) |
