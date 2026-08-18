@@ -136,3 +136,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-17 | The Brutalist (2024, Brady Corbet) — Lol Crawley VistaVision 70mm, 215-min runtime/intermission as deliberate form-follows-endurance argument (r/TrueFilm) |
 | 2026-08-17 | The Pursuit of Happyness (2006, Gabriele Muccino) — Phedon Papamichael's warm handheld subjective camera on Chris Gardner vs. static distant framing of Linda (r/movies) |
 | 2026-08-17 | Midnight Run (1988, Martin Brest) — De Niro's dramatic-actor stillness as comedic device vs. Charles Grodin, two-shot staging (r/flicks) |
+| 2026-08-18 | The Sopranos — therapy-framing (Melfi sessions) as structural device forcing ensemble psychology, Chase's writers room (Terence Winter, Robin Green, Matthew Weiner) (r/TrueFilm) |
+| 2026-08-18 | Tropic Thunder (2008, Ben Stiller) — Tom Cruise as Les Grossman, dramatic-actor commitment applied to broad studio-exec comedy, end-credits dance (r/flicks) |
+| 2026-08-18 | Lord of the Rings trilogy vs. The Hobbit trilogy — WETA "bigatures"/practical NZ locations vs. Hobbit's 48fps HFR backlash, Rings of Power comparison (r/flicks) |
