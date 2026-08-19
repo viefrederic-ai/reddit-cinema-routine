@@ -139,3 +139,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-18 | The Sopranos — therapy-framing (Melfi sessions) as structural device forcing ensemble psychology, Chase's writers room (Terence Winter, Robin Green, Matthew Weiner) (r/TrueFilm) |
 | 2026-08-18 | Tropic Thunder (2008, Ben Stiller) — Tom Cruise as Les Grossman, dramatic-actor commitment applied to broad studio-exec comedy, end-credits dance (r/flicks) |
 | 2026-08-18 | Lord of the Rings trilogy vs. The Hobbit trilogy — WETA "bigatures"/practical NZ locations vs. Hobbit's 48fps HFR backlash, Rings of Power comparison (r/flicks) |
+| 2026-08-19 | Digital restoration over-cleaning debate — Jaws 45th anniversary 4K "orange-skin" grading/grain controversy, Robert Harris (Vertigo/Lawrence of Arabia restorer) on restraint (r/TrueFilm) |
+| 2026-08-19 | Third-film franchise slump — Spider-Man 3 (Raimi, Sony-forced Venom) vs. Spider-Man 2, Godfather Part III rushed release vs. Coppola's 2020 Coda recut (r/flicks) |
+| 2026-08-19 | Air Bud Returns (2026) — practical dog performance/no CGI-AI vs. original 1997 Air Bud's real basketball training, Milo and Otis on-set welfare comparison (r/movies) |
