@@ -142,3 +142,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-19 | Digital restoration over-cleaning debate — Jaws 45th anniversary 4K "orange-skin" grading/grain controversy, Robert Harris (Vertigo/Lawrence of Arabia restorer) on restraint (r/TrueFilm) |
 | 2026-08-19 | Third-film franchise slump — Spider-Man 3 (Raimi, Sony-forced Venom) vs. Spider-Man 2, Godfather Part III rushed release vs. Coppola's 2020 Coda recut (r/flicks) |
 | 2026-08-19 | Air Bud Returns (2026) — practical dog performance/no CGI-AI vs. original 1997 Air Bud's real basketball training, Milo and Otis on-set welfare comparison (r/movies) |
+| 2026-08-20 | Images (1972, Robert Altman) — Vilmos Zsigmond cinematography, actor/character crossed-name doubling device (Auberjonois/Bozzuffi/Millais), Susannah York (r/TrueFilm) |
+| 2026-08-20 | They Live (1988, John Carpenter) — Piper/Keith David alley fight scene, weeks of rehearsal, Gary B. Kibbe cinematography (r/flicks) |
+| 2026-08-20 | Hoosiers (1986, David Anspaugh) — Fred Murphy cinematography, boxed-in small-town gym framing vs. Hinkle Fieldhouse wide finale (r/flicks) |
