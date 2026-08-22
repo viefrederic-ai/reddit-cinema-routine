@@ -145,3 +145,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-20 | Images (1972, Robert Altman) — Vilmos Zsigmond cinematography, actor/character crossed-name doubling device (Auberjonois/Bozzuffi/Millais), Susannah York (r/TrueFilm) |
 | 2026-08-20 | They Live (1988, John Carpenter) — Piper/Keith David alley fight scene, weeks of rehearsal, Gary B. Kibbe cinematography (r/flicks) |
 | 2026-08-20 | Hoosiers (1986, David Anspaugh) — Fred Murphy cinematography, boxed-in small-town gym framing vs. Hinkle Fieldhouse wide finale (r/flicks) |
+| 2026-08-22 | Harakiri (1962, Masaki Kobayashi) — Yoshio Miyajima cinematography, seppuku hall symmetrical staging vs. windswept courtyard duel, Shinobu Hashimoto nested-flashback script (r/TrueFilm) |
+| 2026-08-22 | The Others (2001, Alejandro Amenábar) — Javier Aguirresarobe candlelit/desaturated cinematography justified by photosensitivity, twist recontextualizing locked-door visual grammar (r/flicks) |
+| 2026-08-22 | Les Misérables (2012, Tom Hooper) — Anne Hathaway's "I Dreamed a Dream" sung live on set in one continuous take (~8 full takes), Rachel Getting Married dramatic range (r/movies) |
