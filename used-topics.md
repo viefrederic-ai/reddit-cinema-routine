@@ -148,3 +148,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-22 | Harakiri (1962, Masaki Kobayashi) — Yoshio Miyajima cinematography, seppuku hall symmetrical staging vs. windswept courtyard duel, Shinobu Hashimoto nested-flashback script (r/TrueFilm) |
 | 2026-08-22 | The Others (2001, Alejandro Amenábar) — Javier Aguirresarobe candlelit/desaturated cinematography justified by photosensitivity, twist recontextualizing locked-door visual grammar (r/flicks) |
 | 2026-08-22 | Les Misérables (2012, Tom Hooper) — Anne Hathaway's "I Dreamed a Dream" sung live on set in one continuous take (~8 full takes), Rachel Getting Married dramatic range (r/movies) |
+| 2026-08-23 | The Straight Story (1999, David Lynch) — Freddie Francis's final film as cinematographer (also shot Cape Fear), Badalamenti score, Richard Farnsworth's real-life terminal illness during the shoot (r/TrueFilm) |
+| 2026-08-23 | Shutter Island (2010, Martin Scorsese) — Robert Richardson's unified visual grammar for hallucination vs. "real" scenes, fair-misdirection-vs-cheating framing (r/flicks) |
+| 2026-08-23 | Richard Stanley / The Island of Dr. Moreau (1996) — Bruce Willis's exit over his divorce, Stanley fired 4 days into the Australia shoot, Frankenheimer replacement, Stanley's alleged disguised-extra stunt (Lost Soul, 2014) (r/TrueFilm) |
