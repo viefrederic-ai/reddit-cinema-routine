@@ -151,3 +151,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-23 | The Straight Story (1999, David Lynch) — Freddie Francis's final film as cinematographer (also shot Cape Fear), Badalamenti score, Richard Farnsworth's real-life terminal illness during the shoot (r/TrueFilm) |
 | 2026-08-23 | Shutter Island (2010, Martin Scorsese) — Robert Richardson's unified visual grammar for hallucination vs. "real" scenes, fair-misdirection-vs-cheating framing (r/flicks) |
 | 2026-08-23 | Richard Stanley / The Island of Dr. Moreau (1996) — Bruce Willis's exit over his divorce, Stanley fired 4 days into the Australia shoot, Frankenheimer replacement, Stanley's alleged disguised-extra stunt (Lost Soul, 2014) (r/TrueFilm) |
+| 2026-08-24 | Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles (1975, Chantal Akerman) / Sátántangó (1994, Béla Tarr) — durational realism, real-time domestic tasks as meaning, tolerance for static un-scored time (r/TrueFilm) |
+| 2026-08-24 | Paterson (2016, Jim Jarmusch) — Frederick Elmes calm observational cinematography, one-week structure, low-stakes bus-driver-poet life (r/movies) |
+| 2026-08-24 | Michael Clayton (2007, Tony Gilroy) — directorial debut of his own script, Robert Elswit flat corporate-gray cinematography, horses-in-the-field scene, The Insider (1999, Michael Mann) comparison (r/flicks) |
