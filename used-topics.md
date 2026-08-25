@@ -154,3 +154,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-24 | Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles (1975, Chantal Akerman) / Sátántangó (1994, Béla Tarr) — durational realism, real-time domestic tasks as meaning, tolerance for static un-scored time (r/TrueFilm) |
 | 2026-08-24 | Paterson (2016, Jim Jarmusch) — Frederick Elmes calm observational cinematography, one-week structure, low-stakes bus-driver-poet life (r/movies) |
 | 2026-08-24 | Michael Clayton (2007, Tony Gilroy) — directorial debut of his own script, Robert Elswit flat corporate-gray cinematography, horses-in-the-field scene, The Insider (1999, Michael Mann) comparison (r/flicks) |
+| 2026-08-25 | Columbus (2017, Kogonada) — video-essayist-turned-director, modernist architecture/glass-and-doorway framing as emotional blocking, After Yang comparison (r/movies) |
+| 2026-08-25 | Julien Duvivier — Pépé le Moko (1937) Casbah geography as narrative device, direct template for Algiers (1938) and American noir fatalism, Panique (1946) (r/TrueFilm) |
+| 2026-08-25 | "Whisper-acting" dialogue mixing debate — post-Brando naturalism vs. Atmos/center-channel mix collapsing on soundbar downmix, Tenet/Bane mask, Dune (2021) (r/flicks) |
