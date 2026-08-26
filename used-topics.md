@@ -157,3 +157,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-25 | Columbus (2017, Kogonada) — video-essayist-turned-director, modernist architecture/glass-and-doorway framing as emotional blocking, After Yang comparison (r/movies) |
 | 2026-08-25 | Julien Duvivier — Pépé le Moko (1937) Casbah geography as narrative device, direct template for Algiers (1938) and American noir fatalism, Panique (1946) (r/TrueFilm) |
 | 2026-08-25 | "Whisper-acting" dialogue mixing debate — post-Brando naturalism vs. Atmos/center-channel mix collapsing on soundbar downmix, Tenet/Bane mask, Dune (2021) (r/flicks) |
+| 2026-08-26 | The Outwaters (2022, Robbie Banfitch) — desert found-footage disorientation vs. liminal-space horror aesthetic, Hell House LLC comparison (r/TrueFilm) |
+| 2026-08-26 | Watchmen (2009, Zack Snyder) — Rorschach's real-time morphing inkblot mask replicating Dave Gibbons' shifting comic-panel pattern (r/flicks) |
+| 2026-08-26 | Once Upon a Time in America (1984, Sergio Leone) — 229min European cut vs. 139min chronological US theatrical recut, Deborah ballet scene pacing (r/TrueFilm) |
