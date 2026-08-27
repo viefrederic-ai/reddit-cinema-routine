@@ -157,3 +157,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-25 | Columbus (2017, Kogonada) — video-essayist-turned-director, modernist architecture/glass-and-doorway framing as emotional blocking, After Yang comparison (r/movies) |
 | 2026-08-25 | Julien Duvivier — Pépé le Moko (1937) Casbah geography as narrative device, direct template for Algiers (1938) and American noir fatalism, Panique (1946) (r/TrueFilm) |
 | 2026-08-25 | "Whisper-acting" dialogue mixing debate — post-Brando naturalism vs. Atmos/center-channel mix collapsing on soundbar downmix, Tenet/Bane mask, Dune (2021) (r/flicks) |
+| 2026-08-27 | Watchmen (2009, Zack Snyder) — Comedian's smiley pin shot-for-shot recreation of the comic's opening panel, Dave Gibbons layouts (r/flicks) |
+| 2026-08-27 | The Wicker Man (2006, Neil LaBute) vs. original (1973, Robin Hardy) — dread/ambiguity vs. straight-faced camp, Cage's largely improvised "not the bees" meltdown (r/flicks) |
+| 2026-08-27 | Animal Trap (2026) — found-footage liminal horror, Skinamarink (2022) static degraded-VHS aesthetic, Lake Mungo (2008) home-video-texture dread comparison (r/TrueFilm) |
