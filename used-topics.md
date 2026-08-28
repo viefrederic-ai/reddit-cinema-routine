@@ -157,3 +157,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-25 | Columbus (2017, Kogonada) — video-essayist-turned-director, modernist architecture/glass-and-doorway framing as emotional blocking, After Yang comparison (r/movies) |
 | 2026-08-25 | Julien Duvivier — Pépé le Moko (1937) Casbah geography as narrative device, direct template for Algiers (1938) and American noir fatalism, Panique (1946) (r/TrueFilm) |
 | 2026-08-25 | "Whisper-acting" dialogue mixing debate — post-Brando naturalism vs. Atmos/center-channel mix collapsing on soundbar downmix, Tenet/Bane mask, Dune (2021) (r/flicks) |
+| 2026-08-28 | Enter the Void (2009, Gaspar Noé) — Benoît Debie POV cinematography, blink cut-to-black opening, post-death detached camera drifting over Tokyo (r/TrueFilm) |
+| 2026-08-28 | Sin City (2005, Robert Rodriguez) — green-screen shoot matching scanned Frank Miller comic panels frame-for-frame, Rodriguez quitting the DGA to co-credit Miller (r/flicks) |
+| 2026-08-28 | Sacha Baron Cohen (Borat, Brüno) — hidden-camera ambush technique reliant on pre-release secrecy, Ali G: Who Iz I? UK Picturehouse exhibition pullout (r/movies) |
