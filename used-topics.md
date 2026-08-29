@@ -160,3 +160,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-28 | Enter the Void (2009, Gaspar Noé) — Benoît Debie POV cinematography, blink cut-to-black opening, post-death detached camera drifting over Tokyo (r/TrueFilm) |
 | 2026-08-28 | Sin City (2005, Robert Rodriguez) — green-screen shoot matching scanned Frank Miller comic panels frame-for-frame, Rodriguez quitting the DGA to co-credit Miller (r/flicks) |
 | 2026-08-28 | Sacha Baron Cohen (Borat, Brüno) — hidden-camera ambush technique reliant on pre-release secrecy, Ali G: Who Iz I? UK Picturehouse exhibition pullout (r/movies) |
+| 2026-08-29 | Festen (1998, Thomas Vinterberg) — Dogme 95 vow of chastity, Anthony Dod Mantle handheld digital cinematography, restrained catharsis via blocking/duration (r/TrueFilm) |
+| 2026-08-29 | Watchmen (2009, Zack Snyder) — Moore/Gibbons nine-panel grid, opening title sequence recreating specific comic panels shot-for-shot (r/flicks) |
+| 2026-08-29 | Coyote vs Acme (2026) vs. Who Framed Roger Rabbit (1988, Robert Zemeckis) — ILM motion-control camera rig for live-action/animation compositing (r/movies) |
