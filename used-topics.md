@@ -163,3 +163,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-29 | Festen (1998, Thomas Vinterberg) — Dogme 95 vow of chastity, Anthony Dod Mantle handheld digital cinematography, restrained catharsis via blocking/duration (r/TrueFilm) |
 | 2026-08-29 | Watchmen (2009, Zack Snyder) — Moore/Gibbons nine-panel grid, opening title sequence recreating specific comic panels shot-for-shot (r/flicks) |
 | 2026-08-29 | Coyote vs Acme (2026) vs. Who Framed Roger Rabbit (1988, Robert Zemeckis) — ILM motion-control camera rig for live-action/animation compositing (r/movies) |
+| 2026-08-30 | Rififi (1955, Jules Dassin) — ~30-minute dialogue-free/score-free jewel heist sequence, blacklist-era France shoot on a tiny budget (r/TrueFilm) |
+| 2026-08-30 | Friday the 13th franchise — Jason X (2001) cryo-freeze/spaceship/nanotech "Uber Jason"/holodeck camp-simulation turn vs. Taken 3 tonal drift (r/flicks) |
+| 2026-08-30 | Brazil (1985, Terry Gilliam) — Sid Sheinberg "Love Conquers All" 94-min happy-ending cut vs. Gilliam's 142-min cut, Variety full-page ad, LA critics Best Picture pressure campaign (r/TrueFilm) |
