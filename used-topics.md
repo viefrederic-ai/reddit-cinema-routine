@@ -166,3 +166,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-30 | Rififi (1955, Jules Dassin) — ~30-minute dialogue-free/score-free jewel heist sequence, blacklist-era France shoot on a tiny budget (r/TrueFilm) |
 | 2026-08-30 | Friday the 13th franchise — Jason X (2001) cryo-freeze/spaceship/nanotech "Uber Jason"/holodeck camp-simulation turn vs. Taken 3 tonal drift (r/flicks) |
 | 2026-08-30 | Brazil (1985, Terry Gilliam) — Sid Sheinberg "Love Conquers All" 94-min happy-ending cut vs. Gilliam's 142-min cut, Variety full-page ad, LA critics Best Picture pressure campaign (r/TrueFilm) |
+| 2026-08-31 | We Own the Night (2007, James Gray) — rain-soaked car chase shot handheld from inside Bobby's car, no score, Godfather Part II restraint comparison (r/TrueFilm) |
+| 2026-08-31 | The Remains of the Day (1993, James Ivory) — pantry two-shot scene with Miss Kenton over the hidden book, Tony Pierce-Roberts static/symmetrical cinematography, Anthony Hopkins restraint (r/TrueFilm) |
+| 2026-08-31 | The Vanishing (1988, George Sluizer) — single static-take barn reveal ending, contrast with Sluizer's own studio-forced happy-ending US remake (r/flicks) |
