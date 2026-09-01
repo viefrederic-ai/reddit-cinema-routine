@@ -169,3 +169,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-08-31 | We Own the Night (2007, James Gray) — rain-soaked car chase shot handheld from inside Bobby's car, no score, Godfather Part II restraint comparison (r/TrueFilm) |
 | 2026-08-31 | The Remains of the Day (1993, James Ivory) — pantry two-shot scene with Miss Kenton over the hidden book, Tony Pierce-Roberts static/symmetrical cinematography, Anthony Hopkins restraint (r/TrueFilm) |
 | 2026-08-31 | The Vanishing (1988, George Sluizer) — single static-take barn reveal ending, contrast with Sluizer's own studio-forced happy-ending US remake (r/flicks) |
+| 2026-09-01 | The Departed (2006, Martin Scorsese) — Thelma Schoonmaker's clipped editing rhythm on Wahlberg's dialogue scenes vs. wide-static blockbuster coverage (r/TrueFilm) |
+| 2026-09-01 | Cutter's Way (1981, Ivan Passer) — Jordan Cronenweth cinematography, John Heard/Jeff Bridges, botched United Artists release after Heaven's Gate fallout (r/flicks) |
+| 2026-09-01 | Threads (1984, Mick Jackson) — BBC public-info-film docudrama style, non-professional actors, decade-later language-collapse epilogue (r/flicks) |
