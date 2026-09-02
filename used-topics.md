@@ -172,3 +172,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-01 | The Departed (2006, Martin Scorsese) — Thelma Schoonmaker's clipped editing rhythm on Wahlberg's dialogue scenes vs. wide-static blockbuster coverage (r/TrueFilm) |
 | 2026-09-01 | Cutter's Way (1981, Ivan Passer) — Jordan Cronenweth cinematography, John Heard/Jeff Bridges, botched United Artists release after Heaven's Gate fallout (r/flicks) |
 | 2026-09-01 | Threads (1984, Mick Jackson) — BBC public-info-film docudrama style, non-professional actors, decade-later language-collapse epilogue (r/flicks) |
+| 2026-09-02 | Tremors (1990, Ron Underwood) vs. sequels — "never touch the ground" spatial-tension rule, shriekers/ass-blasters creature escalation (r/TrueFilm) |
+| 2026-09-02 | A Ghost Story (2017, David Lowery) — Rooney Mara ~5-minute unbroken pie-eating take, boxy 4:3 rounded-corner framing (r/flicks) |
+| 2026-09-02 | Under the Skin (2013, Jonathan Glazer) — hidden-camera Glasgow van scenes with non-actors, Mica Levi score, unexplained forest ending (r/flicks) |
