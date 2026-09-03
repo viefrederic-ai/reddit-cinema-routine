@@ -175,3 +175,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-02 | Tremors (1990, Ron Underwood) vs. sequels — "never touch the ground" spatial-tension rule, shriekers/ass-blasters creature escalation (r/TrueFilm) |
 | 2026-09-02 | A Ghost Story (2017, David Lowery) — Rooney Mara ~5-minute unbroken pie-eating take, boxy 4:3 rounded-corner framing (r/flicks) |
 | 2026-09-02 | Under the Skin (2013, Jonathan Glazer) — hidden-camera Glasgow van scenes with non-actors, Mica Levi score, unexplained forest ending (r/flicks) |
+| 2026-09-03 | Natural Born Killers (1994, Oliver Stone) — Tarantino "story by" vs. "screenplay by" WGA credit dispute, Ben Darras/Sarah Edmondson copycat killing spree and Time Warner lawsuit (r/TrueFilm) |
+| 2026-09-03 | Starship Troopers (1997, Paul Verhoeven) — fascist-propaganda satire misread as straight action film, Sony's own marketing selling it against the film's intent (r/TrueFilm) |
+| 2026-09-03 | The Fall (2006, Tarsem Singh) — four-year/~18-country self-financed shoot, no CGI, Catinca Untaru's unscripted scene-by-scene performance (r/flicks) |
