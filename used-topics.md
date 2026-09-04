@@ -178,3 +178,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-03 | Natural Born Killers (1994, Oliver Stone) — Tarantino "story by" vs. "screenplay by" WGA credit dispute, Ben Darras/Sarah Edmondson copycat killing spree and Time Warner lawsuit (r/TrueFilm) |
 | 2026-09-03 | Starship Troopers (1997, Paul Verhoeven) — fascist-propaganda satire misread as straight action film, Sony's own marketing selling it against the film's intent (r/TrueFilm) |
 | 2026-09-03 | The Fall (2006, Tarsem Singh) — four-year/~18-country self-financed shoot, no CGI, Catinca Untaru's unscripted scene-by-scene performance (r/flicks) |
+| 2026-09-04 | Titane (2021, Julia Ducournau) — body-horror transformation imagery as literalization of dysphoria/dissociation, comparison to trans reading of Camp Miasma (r/TrueFilm) |
+| 2026-09-04 | Elysium (2013, Neill Blomkamp) vs. District 9 — bureaucratic/procedural allegory vs. declarative message-delivery, same-director four-year comparison (r/TrueFilm) |
+| 2026-09-04 | Cure (1997, Kiyoshi Kurosawa) — static wide-shot/negative-space dread, Kōji Yakusho, hypnotic-suggestion serial-killer premise, J-horror influence on Ring/Pulse (r/flicks) |
