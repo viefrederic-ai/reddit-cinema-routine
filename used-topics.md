@@ -181,3 +181,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-04 | Titane (2021, Julia Ducournau) — body-horror transformation imagery as literalization of dysphoria/dissociation, comparison to trans reading of Camp Miasma (r/TrueFilm) |
 | 2026-09-04 | Elysium (2013, Neill Blomkamp) vs. District 9 — bureaucratic/procedural allegory vs. declarative message-delivery, same-director four-year comparison (r/TrueFilm) |
 | 2026-09-04 | Cure (1997, Kiyoshi Kurosawa) — static wide-shot/negative-space dread, Kōji Yakusho, hypnotic-suggestion serial-killer premise, J-horror influence on Ring/Pulse (r/flicks) |
+| 2026-09-05 | If I Had Legs, I'd Kick You (2025, Mary Bronstein) — Conan O'Brien's therapist character, "lab rats" story as ironic self-disclosure, control/lack-of-control theme (r/TrueFilm) |
+| 2026-09-05 | Crash (2004, Paul Haggis) — coincidence-driven redemption arcs undermining its own systemic-racism message, 2006 Best Picture win over Brokeback Mountain (r/TrueFilm) |
+| 2026-09-05 | Miracle Mile (1988, Steve De Jarnatt) — near-real-time nuclear countdown structure, Anthony Edwards, forgotten/underseen theatrical release (r/flicks) |
