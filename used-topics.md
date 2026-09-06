@@ -184,3 +184,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-05 | If I Had Legs, I'd Kick You (2025, Mary Bronstein) — Conan O'Brien's therapist character, "lab rats" story as ironic self-disclosure, control/lack-of-control theme (r/TrueFilm) |
 | 2026-09-05 | Crash (2004, Paul Haggis) — coincidence-driven redemption arcs undermining its own systemic-racism message, 2006 Best Picture win over Brokeback Mountain (r/TrueFilm) |
 | 2026-09-05 | Miracle Mile (1988, Steve De Jarnatt) — near-real-time nuclear countdown structure, Anthony Edwards, forgotten/underseen theatrical release (r/flicks) |
+| 2026-09-06 | Star Trek II: The Wrath of Khan (1982, Nicholas Meyer) — 2.35:1 anamorphic theatrical framing, Genesis effect as first fully-CG feature film sequence (Lucasfilm graphics division) (r/flicks) |
+| 2026-09-06 | The Chaser (2008, Na Hong-jin) — early killer-reveal structure turning whodunit into race-against-time, police releasing suspect on a technicality, Kim Yoon-seok performance (r/TrueFilm) |
+| 2026-09-06 | Annihilation (2018, Alex Garland) vs. Jeff VanderMeer's novel — fidelity-in-adaptation debate, Garland's reinterpreted ending, VanderMeer's public endorsement of the departure (r/TrueFilm) |
