@@ -190,3 +190,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-08 | You Can See Everything (2026, Nathan Fielder & Lance Oppenheim) — Elizabeth Holmes A24 documentary, Fielder's staged-sincerity technique (Nathan For You/The Rehearsal) vs. Oppenheim's observational candor (Some Kind of Heaven) (r/movies) |
 | 2026-09-08 | Resident Evil (2026, Zach Cregger) vs. Resident Evil (2002, Paul W.S. Anderson) — survival-horror resource-management dread resisting literal adaptation, Anderson's original Alice/Hive story reassessed as its own B-movie canon (r/TrueFilm) |
 | 2026-09-08 | The Sixth Sense (1999, M. Night Shyamalan) — wife's non-responses to Malcolm after the opening, red-color motif signaling the two worlds bleeding together (r/flicks) |
+| 2026-09-09 | Rope (1948, Alfred Hitchcock) — hidden reel-change cuts disguised as someone's back filling the frame, wheeled/removable apartment walls letting the camera glide through rooms (r/TrueFilm) |
+| 2026-09-09 | Scream (1996, Wes Craven) — Drew Barrymore's cold-open false-protagonist misdirection subverting "final girl" genre convention (r/flicks) |
+| 2026-09-09 | Crimson Peak (2015, Guillermo del Toro) — Allerdale Hall practical set with functioning elevator, grand-staircase tracking shot introducing the house as a character (r/movies, GDT AMA thread) |
