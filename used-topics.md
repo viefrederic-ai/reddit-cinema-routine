@@ -193,3 +193,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-09 | Rope (1948, Alfred Hitchcock) — hidden reel-change cuts disguised as someone's back filling the frame, wheeled/removable apartment walls letting the camera glide through rooms (r/TrueFilm) |
 | 2026-09-09 | Scream (1996, Wes Craven) — Drew Barrymore's cold-open false-protagonist misdirection subverting "final girl" genre convention (r/flicks) |
 | 2026-09-09 | Crimson Peak (2015, Guillermo del Toro) — Allerdale Hall practical set with functioning elevator, grand-staircase tracking shot introducing the house as a character (r/movies, GDT AMA thread) |
+| 2026-09-10 | The Slumber Party Massacre (1982, Amy Holden Jones) — Rita Mae Brown's original spec script as slasher parody vs. Corman/New World's straighter shoot (r/TrueFilm) |
+| 2026-09-10 | Post-superhero dominant genre discourse — Weapons (2025, Zach Cregger) cheap-original-horror model vs. The Odyssey (2026, Nolan) one-off event-epic model (r/flicks) |
+| 2026-09-10 | Gone Girl (2014, David Fincher) — unreliable diary flashbacks shot in matching clinical visual grammar, Cool Girl monologue reveal (r/flicks) |
