@@ -196,3 +196,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-10 | The Slumber Party Massacre (1982, Amy Holden Jones) — Rita Mae Brown's original spec script as slasher parody vs. Corman/New World's straighter shoot (r/TrueFilm) |
 | 2026-09-10 | Post-superhero dominant genre discourse — Weapons (2025, Zach Cregger) cheap-original-horror model vs. The Odyssey (2026, Nolan) one-off event-epic model (r/flicks) |
 | 2026-09-10 | Gone Girl (2014, David Fincher) — unreliable diary flashbacks shot in matching clinical visual grammar, Cool Girl monologue reveal (r/flicks) |
+| 2026-09-12 | Panic Room (2002, David Fincher) — impossible compositing camera moves through the brownstone (coffee pot handle, keyhole), Conrad L. Hall to Darius Khondji DP handoff (r/TrueFilm) |
+| 2026-09-12 | 25th Hour (2002, Spike Lee) — floodlit Ground Zero pit in the background, "fuck you" monologue as a Do the Right Thing callback, imagined-future ending (r/TrueFilm) |
+| 2026-09-12 | Arrival (2016, Denis Villeneuve) — flashback-styled scenes revealed as future memories, Joe Walker editing grammar twist (r/flicks) |
