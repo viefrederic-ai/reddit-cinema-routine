@@ -199,3 +199,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-12 | Panic Room (2002, David Fincher) — impossible compositing camera moves through the brownstone (coffee pot handle, keyhole), Conrad L. Hall to Darius Khondji DP handoff (r/TrueFilm) |
 | 2026-09-12 | 25th Hour (2002, Spike Lee) — floodlit Ground Zero pit in the background, "fuck you" monologue as a Do the Right Thing callback, imagined-future ending (r/TrueFilm) |
 | 2026-09-12 | Arrival (2016, Denis Villeneuve) — flashback-styled scenes revealed as future memories, Joe Walker editing grammar twist (r/flicks) |
+| 2026-09-13 | Once Upon a Time in America (1984, Sergio Leone) — theatrical cut's chronological reorder vs. Noodles' opium-haze nonlinear memory structure (r/TrueFilm) |
+| 2026-09-13 | Zack Snyder's indie project — no video village/Cassavetes-style camera proximity, dropping his signature speed-ramping since 300 (2007) (r/movies) |
+| 2026-09-13 | I'm Thinking of Ending Things (2020, Charlie Kaufman) — Łukasz Żal's claustrophobic car framing, janitor's-dying-memory reading, Oklahoma! fixation (r/flicks) |
