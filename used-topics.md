@@ -202,3 +202,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-13 | Once Upon a Time in America (1984, Sergio Leone) — theatrical cut's chronological reorder vs. Noodles' opium-haze nonlinear memory structure (r/TrueFilm) |
 | 2026-09-13 | Zack Snyder's indie project — no video village/Cassavetes-style camera proximity, dropping his signature speed-ramping since 300 (2007) (r/movies) |
 | 2026-09-13 | I'm Thinking of Ending Things (2020, Charlie Kaufman) — Łukasz Żal's claustrophobic car framing, janitor's-dying-memory reading, Oklahoma! fixation (r/flicks) |
+| 2026-09-18 | A.I. Artificial Intelligence (2001, Spielberg/Kubrick) — ending's evolved-Mecha reveal vs. "alien" misreading, Janusz Kamiński blue-white suburbia/Rouge City neon contrast (r/TrueFilm) |
+| 2026-09-18 | Alexander: The Ultimate Cut (Oliver Stone) — elderly-Ptolemy frame device diluting momentum across four re-edits (2004-2014), Rodrigo Prieto's red-filtered Hydaspes battle (r/TrueFilm) |
+| 2026-09-18 | Cobra Kai (Kreese/Silver) — villain-returns-decades-later arc vs. Halloween (2018) Michael Myers resurrection, Terminator: Dark Fate aging comparison (r/flicks) |
