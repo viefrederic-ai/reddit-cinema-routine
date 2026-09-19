@@ -205,3 +205,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-18 | A.I. Artificial Intelligence (2001, Spielberg/Kubrick) — ending's evolved-Mecha reveal vs. "alien" misreading, Janusz Kamiński blue-white suburbia/Rouge City neon contrast (r/TrueFilm) |
 | 2026-09-18 | Alexander: The Ultimate Cut (Oliver Stone) — elderly-Ptolemy frame device diluting momentum across four re-edits (2004-2014), Rodrigo Prieto's red-filtered Hydaspes battle (r/TrueFilm) |
 | 2026-09-18 | Cobra Kai (Kreese/Silver) — villain-returns-decades-later arc vs. Halloween (2018) Michael Myers resurrection, Terminator: Dark Fate aging comparison (r/flicks) |
+| 2026-09-19 | The Twilight Samurai (2002, Yoji Yamada) — near-total absence of swordplay, Mutsuo Naganuma natural-light cinematography, samurai code as economic/bureaucratic trap (r/TrueFilm) |
+| 2026-09-19 | Umberto D. (1952, Vittorio De Sica) — Flike the dog's unscripted train-track panic, neorealist refusal to script animal behavior (r/flicks) |
+| 2026-09-19 | Shaun the Sheep: The Beast of Mossy Bottom (2026, Aardman) — dialogue-free stop-motion craft vs. CG comedy, physical puppet performance (r/movies) |
