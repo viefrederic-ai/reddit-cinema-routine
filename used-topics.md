@@ -208,3 +208,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-19 | The Twilight Samurai (2002, Yoji Yamada) — near-total absence of swordplay, Mutsuo Naganuma natural-light cinematography, samurai code as economic/bureaucratic trap (r/TrueFilm) |
 | 2026-09-19 | Umberto D. (1952, Vittorio De Sica) — Flike the dog's unscripted train-track panic, neorealist refusal to script animal behavior (r/flicks) |
 | 2026-09-19 | Shaun the Sheep: The Beast of Mossy Bottom (2026, Aardman) — dialogue-free stop-motion craft vs. CG comedy, physical puppet performance (r/movies) |
+| 2026-09-29 | Bitter Rice (1949, Giuseppe De Santis) — Otello Martelli pin-up framing of Silvana Mangano vs. real mondine documentary realism, De Laurentiis/Ponti commercial neorealism, rice-throwing ending (r/TrueFilm) |
+| 2026-09-29 | Jon Watts / Star Wars — Cop Car (2015) clear-geography small-scale staging, Homecoming ferry sequence, Skeleton Crew (r/movies) |
+| 2026-09-29 | Alien (1979, Ridley Scott) — Parker/Brett bonus-share argument, Nostromo as working ore tug, mundane overlapping dialogue, drinking-bird toy (r/flicks) |
