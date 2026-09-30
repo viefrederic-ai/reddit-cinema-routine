@@ -211,3 +211,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-29 | Bitter Rice (1949, Giuseppe De Santis) — Otello Martelli pin-up framing of Silvana Mangano vs. real mondine documentary realism, De Laurentiis/Ponti commercial neorealism, rice-throwing ending (r/TrueFilm) |
 | 2026-09-29 | Jon Watts / Star Wars — Cop Car (2015) clear-geography small-scale staging, Homecoming ferry sequence, Skeleton Crew (r/movies) |
 | 2026-09-29 | Alien (1979, Ridley Scott) — Parker/Brett bonus-share argument, Nostromo as working ore tug, mundane overlapping dialogue, drinking-bird toy (r/flicks) |
+| 2026-09-30 | Blue Is the Warmest Colour (2013, Abdellatif Kechiche) — spaghetti vs. oysters dinner class contrast, Sofian El Fani close-ups on Adèle's unspoken shame, gallery scene (r/TrueFilm) |
+| 2026-09-30 | Knock at the Cabin (2023, M. Night Shyamalan) — no-twist chamber-play tension, tighter close-ups, more hopeful ending than Tremblay's novel (r/flicks) |
+| 2026-09-30 | BioShock adaptation (Gore Verbinski 2008 R-rating budget collapse, Netflix/Roy Lee/Francis Lawrence) — "would you kindly" twist depends on player agency (r/movies) |
