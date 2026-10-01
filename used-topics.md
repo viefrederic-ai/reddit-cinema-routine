@@ -214,3 +214,6 @@ Films, réalisateurs et thèmes déjà proposés dans les 30 derniers jours.
 | 2026-09-30 | Blue Is the Warmest Colour (2013, Abdellatif Kechiche) — spaghetti vs. oysters dinner class contrast, Sofian El Fani close-ups on Adèle's unspoken shame, gallery scene (r/TrueFilm) |
 | 2026-09-30 | Knock at the Cabin (2023, M. Night Shyamalan) — no-twist chamber-play tension, tighter close-ups, more hopeful ending than Tremblay's novel (r/flicks) |
 | 2026-09-30 | BioShock adaptation (Gore Verbinski 2008 R-rating budget collapse, Netflix/Roy Lee/Francis Lawrence) — "would you kindly" twist depends on player agency (r/movies) |
+| 2026-10-01 | Dick Tracy (1990, Warren Beatty) — Storaro ~7-color palette, Sylbert matte-painted skyline sets, comic-panel framing vs. Burton's Batman (r/TrueFilm) |
+| 2026-10-01 | Life of Pi (2012, Ang Lee) — two-story ending, Claudio Miranda painterly cinematography as the argument (r/flicks) |
+| 2026-10-01 | KPop Demon Hunters sequel — Aug 2025 sing-along topping box office, Netflix theatrical windows (r/movies) |
